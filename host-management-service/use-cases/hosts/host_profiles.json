@@ -1,0 +1,6 @@
+{
+  "host_profiles" : {
+      "user_host_profile1" : { "managed_by" : "cm", "location" : {"latitude" : 335480, "longtitude" : -121.893028}, "labels" : {"region" : "West"}},
+      "user_host_profile2" : { "managed_by" : "host", "location" : {"latitude" : 335480, "longtitude" : -121.893028}, "labels" : {"region" : "East"}}
+  }
+}
