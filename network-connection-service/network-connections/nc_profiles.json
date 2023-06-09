@@ -1,0 +1,6 @@
+{
+  "nc_profiles" : {
+      "user_nc_profile1" : { "service_mode" : "", "mc" : "", "outer_vid" : "", "implicit_transport_capacity" : "", "labels" : [], "endpoint_capacity" : 100 }, 
+      "user_nc_profile2" : { "service_mode" : "", "mc" : "", "outer_vid" : "", "implicit_transport_capacity" : "", "labels" : [] , "endpoint_capacity" : 400 }
+  }
+}
